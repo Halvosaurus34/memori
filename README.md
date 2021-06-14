@@ -1,4 +1,4 @@
-# <img style="height: 23px" src="./assets/memories.png"/> Memori
+# Memori
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg "License Badge")
 
