@@ -32,10 +32,10 @@ For additional questions please reach out to me at: lhalvorson34@gmail.com.
 
 ---
 
-![Website Screenshot](./assets/home-capture.png)
-![Website Screenshot](./assets/login-capture.png)
-![Website Screenshot](./assets/top-post-capture.png)
-![Website Screenshot](./assets/bottom-post-capture.png)
+![Website Screenshot](./assets/home-capture.PNG)
+![Website Screenshot](./assets/login-capture.PNG)
+![Website Screenshot](./assets/top-post-capture.PNG)
+![Website Screenshot](./assets/bottom-post-capture.PNG)
 
 ## 🎯 Links
 
